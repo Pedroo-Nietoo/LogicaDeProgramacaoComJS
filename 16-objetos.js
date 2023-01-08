@@ -14,6 +14,7 @@ let usuario = {
 
 usuario.sexo = "Masculino"; //Adiciona uma chave ao objeto
 console.log(usuario.idade); //Saída: 17
+console.log(usuario.sexo); //Saída: Masculino
 
 //Objetos aninhados
 let estudante = {
