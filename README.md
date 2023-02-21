@@ -1,4 +1,5 @@
 Lógica de Programação com JavaScript - 95h
+
 Conteúdo ministrado:
 
  - Variáveis;
